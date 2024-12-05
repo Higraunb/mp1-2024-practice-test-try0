@@ -9,5 +9,4 @@ unsigned int product_of_two_numbers(unsigned int a, unsigned int b)
     return UINI_MAX;
   else
     return c;
-  return 0;
 }
